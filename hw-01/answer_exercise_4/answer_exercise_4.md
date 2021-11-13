@@ -43,3 +43,9 @@ docker build -t answer_exercise_4:1.0 .
 ```console
 docker run -d -p 8080:8080 answer_exercise_4:1.0
 ```
+
+## Referencia
+
+![ejercicio4-1](https://user-images.githubusercontent.com/10359307/141606248-76e0c723-0826-4721-a802-5a8a17969a36.png)
+
+![ejercicio4-2](https://user-images.githubusercontent.com/10359307/141606254-fe18261d-6a38-4e09-b011-cd5b8e0f94b4.png)
