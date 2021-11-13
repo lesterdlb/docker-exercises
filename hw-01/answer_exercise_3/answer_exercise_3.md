@@ -27,3 +27,7 @@ docker build -t answer_exercise_3:1.0 .
 ```console
 docker run -d -p 8080:80 -v static_content:/usr/share/nginx/html answer_exercise_3:1.0
 ```
+
+## Referencia
+
+![ejercicio3](https://user-images.githubusercontent.com/10359307/141606232-c5ca4001-b122-4429-b26d-05220c8d2786.png)
